@@ -15,9 +15,16 @@ pip install pyautogui
 
 after You did that, You need to open the directory where You downloaded and saved DiscordSpam.py in cmd by typing:
 cd directory/where/you/saved/it
+
 Then you type 
+
+
 dir
+
+
 And then You wanna type:
+
+
 python DiscordSpam.py
 
 
