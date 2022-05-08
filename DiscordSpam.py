@@ -5,7 +5,7 @@ import  time
 print( "Made by Jampa_was_here on TikTok")
 
 message = input("What Message do you wanna spam?")
-repeat = int(input("How many messages do you wann get send?"))
+repeat = int(input("How many messages do you wanna get send?"))
 delay = int(input(" How many seconds between each message? "))
 
 isloaded = input ("press enter if ur discord is loaded")
